@@ -8,7 +8,7 @@ Usage
 Contributing
 
 About the Repository
-This repository is a showcase of my personal projects across different domains such as software development, data analysis, machine learning, and more. Each project is contained within its own directory along with relevant documentation and resources.
+This repository is a showcase of my projects across different domains such as software development, data analysis, machine learning, and more. Each project is contained within its directory along with relevant documentation and resources.
 
 Projects
 Here's a list of projects included in this repository:
@@ -23,7 +23,7 @@ To get started, clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/john-akech/personal-projects.git
+git clone git@github.com:John-Akech/personal-projects.git
 Then, navigate to the project directory you're interested in and follow the instructions in the project's README file.
 
 Contributing
